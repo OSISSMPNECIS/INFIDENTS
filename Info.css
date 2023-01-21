@@ -251,7 +251,7 @@ footer{
     }
 }
 
-@media screen and (max-width:525) {
+@media screen and (max-width:525px) {
     .logo a{
         display: block;
         width: 100%;
