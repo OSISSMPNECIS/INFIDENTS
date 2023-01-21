@@ -469,3 +469,27 @@ footer{
         list-style-type: none;
     }
 }
+
+@media screen and (max-width:525) {
+    .logo a{
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+
+    nav .menu{
+        width: 100%;
+        margin: 0;
+    }
+
+    nav .menu ul{
+        text-align: center;
+        margin: auto;
+        line-height: 60px;
+    }
+
+    nav .menu ul li{
+        display: inline-block;
+        float: none;
+    }
+}
