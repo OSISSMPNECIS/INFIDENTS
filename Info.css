@@ -273,4 +273,8 @@ footer{
         display: inline-block;
         float: none;
     }
+    
+    .info .content img{
+        display: none;
+    }
 }
