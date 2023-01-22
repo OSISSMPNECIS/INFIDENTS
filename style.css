@@ -489,11 +489,10 @@ footer{
     .coloum2{
         display: block;
         margin: 0 auto;
-        background-image: url("./UI Image/SO 1/WhatsApp Image 2023-01-03 at 17.11.52.jpeg");
     }
 
     .coloum2 img{
-        display: none;
+        width: 80%;
     }
 
     .admin-card{
