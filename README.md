@@ -1,2 +1,2 @@
-# INFIDENTs.github.io
+# INFIDENTS
 A website for school organization
