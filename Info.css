@@ -180,6 +180,21 @@ p{
     text-align: center;
 }
 
+.info .content-race{
+    display: block;
+}
+
+.info .content-race img{
+    width: 200px;
+    margin: 0 auto;
+}
+
+.info .content-race a{
+    background: #FFFFFF;
+    width: 100%;
+    border-radius: 20px;
+}
+
 footer{
     background: #131313;
     padding: 50px 0px 50px 0px;
@@ -276,5 +291,10 @@ footer{
     
     .info .content img{
         display: none;
+    }
+
+    .info .content-race img{
+        display: block;
+        width: 90%;
     }
 }
