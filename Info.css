@@ -181,7 +181,7 @@ p{
 }
 
 .info .content-race{
-    display: block;
+    display: flex;
 }
 
 .info .content-race img{
