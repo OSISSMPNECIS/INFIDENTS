@@ -190,9 +190,19 @@ p{
 }
 
 .info .content-race a{
-    background: #FFFFFF;
-    width: 100%;
+    background: #111111;
     border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.info .content-race a{
+    background: #ffffff;
+    color: #000000;
+    padding: 15px 20px 15px 20px;
 }
 
 footer{
