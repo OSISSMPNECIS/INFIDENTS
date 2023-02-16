@@ -189,7 +189,7 @@ p{
     margin: 0 auto;
 }
 
-.info .content-race a{
+.info .content-race .text a{
     background: #111111;
     border-radius: 20px;
     margin-top: 20px;
@@ -199,7 +199,7 @@ p{
     font-weight: bold;
 }
 
-.info .content-race a:hover{
+.info .content-race .text a:hover{
     background: #ffffff;
     color: #000000;
     padding: 15px 20px 15px 20px;
