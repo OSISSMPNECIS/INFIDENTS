@@ -190,6 +190,7 @@ p{
 }
 
 .info .content-race .text a{
+    margin: 1.5rem;
     background: #111111;
     border-radius: 20px;
     margin-top: 20px;
